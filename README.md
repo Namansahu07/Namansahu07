@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a Website [Parallax website](https://github.com/Namansahu07/parallax-intro)
+- 🔭 I’m currently working on a Website [js](https://github.com/Namansahu07/parallax-intro)
 
 - 🌱 I’m currently learning **Java script,React,Angular**
 
