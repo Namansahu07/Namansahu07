@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Java API**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available 
 
-- 📝 I regularly write posts on linkedin [https://www.linkedin.com/in/naman-sahu-b26721248/](https://www.linkedin.com/in/naman-sahu-b26721248/)
+- 📝 I regularly write posts on linkedin (https://www.linkedin.com/in/naman-sahu-b26721248/)
 
 - 💬 Ask me about **React,HTML,CSS,JS**
 
