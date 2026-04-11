@@ -75,15 +75,6 @@ Building scalable full-stack applications & real-time systems ⚡
 
 <hr/>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namansahu07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namansahu07&layout=compact&theme=tokyonight" />
-</p>
 
 <hr/>
 
@@ -92,7 +83,6 @@ Building scalable full-stack applications & real-time systems ⚡
 <ul>
 <li>💼 LinkedIn: https://www.linkedin.com/in/naman-sahu-b26721248/</li>
 <li>📧 Email: ns0110cvv@gmail.com</li>
-<li>🌐 Portfolio: ADD_YOUR_PORTFOLIO_LINK</li>
 </ul>
 
 <hr/>
