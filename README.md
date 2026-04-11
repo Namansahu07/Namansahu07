@@ -84,7 +84,11 @@ Building scalable full-stack applications & real-time systems ⚡
 <li>💼 LinkedIn: https://www.linkedin.com/in/naman-sahu-b26721248/</li>
 <li>📧 Email: ns0110cvv@gmail.com</li>
 </ul>
+<h2>🛠 Tech Stack</h2>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,java,python,git,github,vscode" />
+</p>
 <hr/>
 
 <p align="center"><b>⭐ Building systems, not just projects.</b></p>
