@@ -1,36 +1,100 @@
-<h1 align="center">Hi 👋, I'm NAMAN</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Naman Sahu</h1>
+<h3 align="center">Software Developer | MCA @ JIIT | Ex-SDE Intern @ Outlier AI & IT Nucleus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namansahu07&label=Profile%20views&color=0e75b6&style=flat" alt="namansahu07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansahu07" alt="namansahu07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on a Website [js](https://github.com/Namansahu07/parallax-intro)
-
-- 🌱 I’m currently learning **Java script,React,Angular**
-
-- 👯 I’m looking to collaborate on New prjects [Goodtobeknown](--)
-
-- 🤝 I’m looking for help with **Java API**
-
-- 👨‍💻 All of my projects are available 
-
-- 📝 I regularly write posts on linkedin (https://www.linkedin.com/in/naman-sahu-b26721248/)
-
-- 💬 Ask me about **React,HTML,CSS,JS**
-
-- 📫 How to reach me **ns0110cvv@gmail.com**
-
-<h3 align="left">Connect with me on insta:nmn.sahu:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naman sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman sahu" height="30" width="40" /></a>
-<a href="https://instagram.com/nmnsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nmnsahu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/naman sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="naman sahu" height="30" width="40" /></a>
+<p align="center">
+Building scalable full-stack applications & real-time systems ⚡
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namansahu07&show_icons=true&locale=en&layout=compact" alt="namansahu07" /></p>
+<h2>🚀 About Me</h2>
+
+<ul>
+<li>💻 Software Developer experienced in building <b>scalable full-stack applications</b></li>
+<li>⚡ Improved application performance by <b>35–45%</b> using optimization techniques</li>
+<li>🤖 Worked on <b>LLM evaluation & prompt engineering</b> at Outlier AI</li>
+<li>🔄 Built a <b>real-time collaborative code editor</b> using WebSockets</li>
+<li>📈 Focused on performance, scalability, and clean architecture</li>
+</ul>
+
+<hr/>
+
+<h2>🧠 Featured Projects</h2>
+
+<h3>🔹 Real-Time Collaborative Code Editor</h3>
+<ul>
+<li>Built using <b>React, Node.js, Socket.io</b></li>
+<li>Enabled <b>low-latency real-time synchronization</b></li>
+<li>Implemented <b>room-based architecture & user presence</b></li>
+<li>📌 Live collaboration with seamless state sync</li>
+</ul>
+
+<p>👉 https://github.com/Namansahu07/YOUR_PROJECT_LINK</p>
+
+<h3>🔹 Portfolio Website</h3>
+<ul>
+<li>Component-driven architecture with reusable UI</li>
+<li>Improved load time by <b>45%</b></li>
+<li>Achieved <b>&lt;1.5s rendering time</b></li>
+<li>Designed for performance & responsiveness</li>
+</ul>
+
+<p>👉 https://github.com/Namansahu07/YOUR_PORTFOLIO_LINK</p>
+
+<hr/>
+
+<h2>💼 Experience</h2>
+
+<h3>🔹 SDE Intern – Outlier AI (Sept 2025 – Jan 2026)</h3>
+<ul>
+<li>Evaluated and optimized <b>5000+ LLM responses</b></li>
+<li>Improved output accuracy, consistency, and alignment</li>
+<li>Designed structured prompt strategies</li>
+<li>Analyzed failure cases & built feedback loops</li>
+</ul>
+
+<h3>🔹 SDE Intern – IT Nucleus (Mar 2025 – Sept 2025)</h3>
+<ul>
+<li>Built scalable full-stack apps using <b>React, Node.js, MongoDB</b></li>
+<li>Reduced backend latency by <b>25%</b></li>
+<li>Improved load time by <b>35%</b></li>
+<li>Integrated REST APIs with optimized data flow</li>
+</ul>
+
+<hr/>
+
+<h2>🛠 Tech Stack</h2>
+
+<ul>
+<li><b>Languages:</b> Python, Java</li>
+<li><b>Frontend:</b> React.js, HTML, CSS, JavaScript</li>
+<li><b>Backend:</b> Node.js, Express.js</li>
+<li><b>Database:</b> MongoDB, SQL</li>
+<li><b>Tools:</b> Git, GitHub, Vercel</li>
+</ul>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namansahu07&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namansahu07&layout=compact&theme=tokyonight" />
+</p>
+
+<hr/>
+
+<h2>📫 Connect With Me</h2>
+
+<ul>
+<li>💼 LinkedIn: https://www.linkedin.com/in/naman-sahu-b26721248/</li>
+<li>📧 Email: ns0110cvv@gmail.com</li>
+<li>🌐 Portfolio: ADD_YOUR_PORTFOLIO_LINK</li>
+</ul>
+
+<hr/>
+
+<p align="center"><b>⭐ Building systems, not just projects.</b></p>
