@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Sahu</h1>
-<h3 align="center">Software Developer | MCA @ JIIT | Ex-SDE Intern @ Outlier AI & IT Nucleus</h3>
+<h3 align="center">Software Developer | MCA @ JIIT | Ex-SDE Intern @ Outlier AI </h3>
 
 <p align="center">
 Building scalable full-stack applications & real-time systems ⚡
